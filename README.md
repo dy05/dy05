@@ -30,5 +30,5 @@ Software Developer | Laravel Artisan | VueJs Evangelist
 
 ## 📫 Contacts
 
-- Twitter - [@dos_plague](https://twitter.com/dos_plague)
+- Twitter - [@ObbySidaneY](https://twitter.com/ObbySidaneY)
 - LinkedIn - [Obby Sidane YOUTA](https://www.linkedin.com/in/youta-obby-sidane/)
