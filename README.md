@@ -30,5 +30,5 @@ Software Developer | Laravel Artisan | VueJs Evangelist
 
 ## 📫 Contacts
 
-- X - [@ObbySidaneY](https://twitter.com/ObbySidaneY)
+- X - [@ObbySidaneY](https://x.com/ObbySidaneY)
 - LinkedIn - [Obby Sidane YOUTA](https://www.linkedin.com/in/youta-obby-sidane/)
