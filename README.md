@@ -9,13 +9,13 @@ Software Developer | Laravel Artisan | VueJs Evangelist
 
 💬 We can talk about
 
-- Front-end development using **VueJs, AlpineJs, Angular, React**
-- Backend development using **PHP, Node JS(Express)**
+- Front-end development using **VueJs, Angular, React, AlpineJs**
+- Backend development using **PHP/Laravel, Node JS(Express)/Adonis.js**
 
 
 ## Communities
 
-- Co-organizer at [GDG Douala - Cameroon](https://devfest.gdgdouala.com/)
+- Co-organizer at [Google Developer Group](https://devfest.gdgdouala.com/)
 - Active Member of [Laravel Cameroun](https://laravel.cm) (A PHP & Laravel Community)
 
 
@@ -30,5 +30,5 @@ Software Developer | Laravel Artisan | VueJs Evangelist
 
 ## 📫 Contacts
 
-- Twitter - [@ObbySidaneY](https://twitter.com/ObbySidaneY)
+- X - [@ObbySidaneY](https://twitter.com/ObbySidaneY)
 - LinkedIn - [Obby Sidane YOUTA](https://www.linkedin.com/in/youta-obby-sidane/)
